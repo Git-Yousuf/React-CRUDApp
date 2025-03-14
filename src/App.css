@@ -1,0 +1,13 @@
+.space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    gap: 20px;
+}
+
+.container-fluid{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-bottom: 0px !important;
+}
